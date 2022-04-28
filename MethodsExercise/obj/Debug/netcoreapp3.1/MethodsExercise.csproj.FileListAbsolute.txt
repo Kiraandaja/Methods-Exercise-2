@@ -1,0 +1,13 @@
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.deps.json
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.runtimeconfig.json
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.runtimeconfig.dev.json
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.dll
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/bin/Debug/netcoreapp3.1/MethodsExercise.pdb
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.csproj.AssemblyReference.cache
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.AssemblyInfoInputs.cache
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.AssemblyInfo.cs
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.dll
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.pdb
+/Users/takiragray/Desktop/Repos/MethodesExercise/MethodsExercise/obj/Debug/netcoreapp3.1/MethodsExercise.genruntimeconfig.cache
